@@ -6,6 +6,9 @@ import nibabel as nib
 from torch.utils.data import Dataset, DataLoader
 
 
+logger = logging.getLogger(__name__)
+
+
 class NifTi2dDataset(Dataset):
     """
     Usage: 
