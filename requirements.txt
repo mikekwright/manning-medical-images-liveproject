@@ -1,5 +1,5 @@
 nibabel==3.0.2
-numpy==1.18.1
+numpy==1.22.0
 matplotlib==3.2.0
 torch==1.4.0
 jupyterlab==2.0.1
